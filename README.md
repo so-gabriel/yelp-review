@@ -1,6 +1,6 @@
-<font size="200">Yelp Reviews and NLP</font>
-(best viewed in github when dark mode is off)
+# Yelp Reviews and NLP
 
+(best viewed in github when dark mode is off)
 
 ### Gabriel So
 
