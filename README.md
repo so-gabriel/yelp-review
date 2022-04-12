@@ -1,6 +1,9 @@
-<font size="200">Yelp Reviews and NLP</font>
+# Yelp Reviews and NLP
+
+(best viewed in github when dark mode is off)
 
 ### Gabriel So
+
 
 ## Overview
 
@@ -43,7 +46,6 @@ plt.show();
     
 ![png](Presentation_files/Presentation_5_0.png)
     
-
 
 
 ```python
